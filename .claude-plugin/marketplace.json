@@ -1,0 +1,11 @@
+{
+  "name": "claude-piano-chimes",
+  "owner": { "name": "J4x0-o2" },
+  "plugins": [
+    {
+      "name": "piano-chimes",
+      "source": "./",
+      "description": "Soft, low piano chimes: one when a response is ready, another when Claude is waiting for your confirmation or answer"
+    }
+  ]
+}
