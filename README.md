@@ -1,4 +1,8 @@
-# piano-chimes
+<p align="center">
+  <img src="assets/icon.svg" alt="piano-chimes icon: a white lotus over calm ripples" width="160">
+</p>
+
+<h1 align="center">piano-chimes</h1>
 
 Gentle piano sounds for [Claude Code](https://claude.com/claude-code), so you can step away from the terminal and still know when Claude needs you.
 
